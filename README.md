@@ -64,6 +64,9 @@ INCOME PREDICTION/
 │   └── index.html                      # HTML form for Flask
 ├── EDA.ipynb                           # Jupyter Notebook with EDA & modeling
 ├── requirements.txt                    # Dependencies
+├── Screen Short Of Apps/
+│   └── flask_app.png
+│   └── streamlit_app.png                  
 └── README.md                           # Project overview and instructions
 ```
 
@@ -83,6 +86,9 @@ INCOME PREDICTION/
    ```
 3. Open your browser and go to `http://127.0.0.1:5000/` to see the form.
 
+   ![flask_app](https://github.com/user-attachments/assets/c523cbd9-c2df-467e-ac5c-d7bc9300acad)
+
+
 ### Running the Streamlit App
 
 1. Ensure dependencies are installed.
@@ -91,5 +97,9 @@ INCOME PREDICTION/
    streamlit run streamlit_app.py
    ```
 3. Access the app via the URL provided in the terminal (usually `http://localhost:8501`).
+
+---
+# HERE IS MY APP
+https://census-income-predictor-vfb2uanzg2nvgqb4sqr7mu.streamlit.app/
 
 ---
